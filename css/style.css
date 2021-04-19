@@ -2,12 +2,14 @@
 
 header{
     background-color: cyan;
+    background-image: url("../img/pattern.png");
     background-repeat: repeat-x;
+    background-size: 25%;
+    height: 150px;
 }
 
 .immagine{
-    background-image: url("img/pattern.png");
-    height: fit-content;
+    height: 100px;
 }
 
 /* tabella */
@@ -16,16 +18,20 @@ thead{
     background-color: cyan;
 }
 
+th{
+    width: 10%;
+}
+
 /* footer */
 
 .img-foot1{
-    background-image: url("img/monitor.jpg");
+    background-image: url("../img/monitor.jpg");
     height: 200px;
     width: 300px;
 }
 
 .img-foot2{
-    background-image: url("graph.jpg");
+    background-image: url("../img/graph.jpg");
     height: 200px;
     width: 300px;
 }
