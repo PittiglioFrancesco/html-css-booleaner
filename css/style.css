@@ -1,4 +1,5 @@
 /* header */
+
 header{
     background-color: cyan;
     background-repeat: repeat-x;
@@ -9,6 +10,12 @@ header{
     height: fit-content;
 }
 
+/* tabella */
+
+thead{
+    background-color: cyan;
+    color: white;
+}
 
 /* colori */
 
@@ -22,4 +29,8 @@ header{
 
 .marked-yellow{
     background-color: yellow;
+}
+
+.back-light-blue{
+    background-color: lightblue;
 }
