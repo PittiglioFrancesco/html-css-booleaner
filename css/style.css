@@ -8,3 +8,18 @@ header{
     background-image: url("img/pattern.png");
     height: fit-content;
 }
+
+
+/* colori */
+
+.gray{
+    color: gray;
+}
+
+.light-blue{
+    color: lightblue;
+}
+
+.marked-yellow{
+    background-color: yellow;
+}
