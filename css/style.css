@@ -1,0 +1,10 @@
+/* header */
+header{
+    background-color: cyan;
+    background-repeat: repeat-x;
+}
+
+.immagine{
+    background-image: url("img/pattern.png");
+    height: fit-content;
+}
