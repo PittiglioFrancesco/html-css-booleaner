@@ -14,7 +14,20 @@ header{
 
 thead{
     background-color: cyan;
-    color: white;
+}
+
+/* footer */
+
+.img-foot1{
+    background-image: url("img/monitor.jpg");
+    height: 200px;
+    width: 300px;
+}
+
+.img-foot2{
+    background-image: url("graph.jpg");
+    height: 200px;
+    width: 300px;
 }
 
 /* colori */
@@ -33,4 +46,7 @@ thead{
 
 .back-light-blue{
     background-color: lightblue;
+}
+.white{
+    color: white;
 }
